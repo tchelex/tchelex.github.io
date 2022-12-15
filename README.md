@@ -3,4 +3,4 @@
 
 
 
-[вот](https://t.me/Pi40IoT_bot)
+https://t.me/Pi40IoT_bot
